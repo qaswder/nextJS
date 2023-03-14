@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Рекс",
+        "animal": "Собака",
+        "human": "Артем",
+        "address1": "53.20",
+        "address2": "45.00",
+        "img": "dog.png"
+    },
+    {
+        "name": "Барсик",
+        "animal": "Кот",
+        "human": "Сергей",
+        "address1": "53.20",
+        "address2": "50.15",
+        "img": "cat.png"
+    },
+    {
+        "name": "Джо",
+        "animal": "Заяц",
+        "human": "Николай",
+        "address1": "54.18",
+        "address2": "45.17",
+        "img": "rabit.png"
+    }
+]
